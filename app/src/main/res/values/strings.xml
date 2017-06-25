@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android-UI-Demo</string>
+    <string name="title_activity_view_pager">ViewPagerActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_kt_view_pager">KtViewPagerActivity</string>
+</resources>
